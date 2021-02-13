@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['Eggy','HAPPY', 'VALENTINE\'S', 'DAY', 'I LOVE YOU']
+  let texts = ['Eggie','HAPPY', 'VALENTINE\'S', 'DAY', 'I LOVE YOU']
 
   let canvas,
     ctx,
